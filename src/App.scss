@@ -1,0 +1,14 @@
+// import demo header styling, only used for Bryntum demos and can be removed
+@import "@bryntum/demo-resources/scss/example-vite.scss";
+
+.small-text {
+    font-size : .7em;
+}
+  
+.yes-button,
+.no-button {
+    flex    : 1;
+    border  : none;
+    outline : none;
+}
+  
